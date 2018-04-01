@@ -1,0 +1,127 @@
+/*Taller #3 de seminario de ingeniería de sistemas
+Realizado por:
+Benjamín Eduardo De La Torre Rojas
+Código Estudiante:
+201810021010
+Universidad Eafit 
+Medellín 
+Primer Semestre
+2018/*
+
+Actividad 1.
+Tanto a nivel personal como a nivel institucional,
+mi software oficial, único y original es Windows 10.
+Página oficial de Windows: https://www.microsoft.com/es-co/windows/
+
+Actividad 2.
+No pude crear la cuenta de Dreamspark ya que me encontraba fuera de la ciudad toda esta semana santa 
+y el sábado 31 de marzo que volví a Medellín empecé a realizar este taller 3
+pero no me ha llegado el correo de aceptación de la solicitud para mi cuenta.
+Sin este paso no puedo terminar de realizar la actividad #2, pido disculpas. Gracias.
+
+Beneficios de github
+1. Versionar tu código.
+Esto quiere decir guardar en determinado momento los cambios efectuados a un archivo o conjunto de archivos,
+con la oportunidad que tener acceso a ese historial de cambios, ya sea para regresar a una de esas versiones 
+o para hacer comparaciones entre ellas. En este punto hay que destacar las ventajas frente a herramientas como Subversion y Perforce;
+que son usadas para este mismo fin, la principal es que no necesitarías montar, mantener, hacer copias de seguridad,
+etcétera a un repositorio o servidor para proteger el código que escribes, en este caso Github es el plataforma que cumple esta función.
+Lo único que necesitas es instalar Git en tu equipo, crear tu cuenta en Github y luego de realizar algunas configuraciones sencillas 
+y ejecutar los comandos adecuadas podrás enviar tu código a Github. Es importante mencionar que la visibilidad de los proyectos será público o privado según el tipo de cuenta que adquieras.
+
+2. Aprender y experimentar
+Como muchos desarrolladores tienen de forma pública sus proyectos en Github es posible acceder a su código, leerlo, estudiarlo y aprender
+de el, e incluso podrías hacer cambios y experimentar sin afectar el código original,
+a esto ultimo se le como como: hacer [fork] (https://help.github.com/articles/fork-a-repo/)
+
+3. Contribuir
+Si luego de copiar un proyecto (hacer Fork) haces ajustes que arreglan bugs o introducen una nueva funcionalidad, 
+puedes proponerle al dueño del proyecto que integre tus cambios en su código. 
+Eso lo puedes hacer enviando un pull request con todas tus modificaciones o novedades. 
+Mediante un pull request el administrador del repositorio original tendrá la posibilidad de revisar, 
+testear o escribir comentarios sobre alguna líneas de tu propuesta, y finalmente si considera interesante
+tu contribución podrá realizar la fusión de esta con el código original 
+(a esto se le conoce como hacer merge o en caso contrario rechazar los cambios propuestos.
+
+4. Trabajo en equipo
+Github es el lugar perfecto para trabajar conjuntamente en una idea con un amigo o colega, 
+después de crear tu proyecto podrás invitar a otros usuarios como colaboradores, permitiendo así que estos lean
+y escriban directamente sobré tu repositorio.
+Etc (https://gist.github.com/erlinis/57a55dfb0337f5cd15cd)
+
+Actividad 4.
+•	¿Cuales son los productos de jetbrain?
+AppCode, CLion, DataGrip, dotCover, dotMemory
+dotTrace, GoLand, IntelliJ IDEA Ultimate, PhpStorm
+PyCharm, ReSharper, ReSharper C++, Rider, RubyMine, WebStorm
+
+Actividad 8.
+Ventajas y desventajas de google cloud
+DESVENTAJAS
+Las personas pueden ver las paginas que utilizaste.
+El usuario no es seguro si no creas una buena contraseña para protegerlo.
+Si el documento tiene varios editores o colaboradores  pudiera ser eliminados  por uno de ellos.
+Es un poco complicado el entendimiento del  programa por que tiene muchas funciones y aparte de eso  se encuentra en ingles.
+Es obligatorio el uso de internet.
+ VENTAJAS
+Es muy ventajoso ya que Todos los colaboradores tienen acceso en cualquier momento y hora.
+Puedes cargar y descargar archivos e información en la red.
+Espacio de hasta 1 gigabit de todo tipo de ficheros.
+Traductor incluido con 53 idiomas.
+Fuente: http://losprimeros.blogspot.es/1405914758/ventajas-y-desventajas-de-google-drive/
+
+
+
+Actividad 9.
+¿Cuáles son las características principales de Oracle?
+•	Modelo relacional: los usuarios visualizan los datos en tablas con el formato filas/columnas.
+•	Herramienta de administración gráfica intuitiva y cómoda de utilizar.
+•	Control de acceso: tecnologías avanzadas para vigilar la entrada a los datos.
+•	Protección de datos: seguridad completa en el entorno de producción y de pruebas y gestión de copias de seguridad.
+•	Lenguaje de diseño de bases de datos muy completo (PL/SQL): permite implementar diseños "activos", que se pueden adaptar a las necesidades cambiantes de negocio.
+•	Alta disponibilidad: escalabilidad, protección y alto rendimiento para la actividad empresarial.
+•	Gestión de usuarios: agilidad en los trámites, reducción de costes y seguridad en el control de las personas que acceden a las aplicaciones y a los sistemas.
+Fuente: https://www.cursosfemxa.es/blog/desarrollo-profesional/5-ventajas-oracle
+
+
+Ventajas de RED HAT
+•	Todos los productos de Red Hat Enterprise Linux Server incorporan un entorno de virtualización, 
+también disponible como opción para productos de escritorio
+•	Red Hat Network admite sistemas operativos guest virtualizados
+•	Las herramientas de gestión virt-manager, libvirt/virsh están disponibles 
+para la gestión de virtualización de un único sistema generado mediante scripts
+•	Se permite la integración con Red Hat Enterprise Virtualization para la gestión de virtualización de empresas
+Fuente: https://www.redhat.com/es/technologies/linux-platforms/articles/red-hat-enterprise-linux-5-features-and-benefits
+
+Mas ventajas de SAP ERP
+Otra de las mayores ventajas de SAP ERP es su capacidad de acoger la mayor parte de los procesos empresariales en un estándar funcional,
+lo cual tiene como consecuencia una mayor independencia del usuario y el cliente de desarrolladores externos.
+
+Ademas SAP ERP cuenta con actualizaciones automáticas de cambios legislativos, contables, etc.
+
+Por otra parte, existen soluciones verticales adaptadas a las necesidades de gestión específicas del cliente.
+Esto permite una drástica reducción en costes de implantación sin por ello perder la capacidad de crecimiento 
+y adaptabilidad a los cambios del cliente. Por ello la principal ventaja de SAP ERP para Pymes reside en la existencia de soluciones SAPERP
+especialmente adaptadas a la naturaleza de Pequeñas y Medianas Empresas.
+
+Por último y no menos importante,  cabe destacar que la interfaz de SAP, lo que el usuario ve en la pantalla, 
+es completamente personalizable a su rol, gustos personales, etc.
+Fuente: http://sap-erp.es/ventajas-de-sap-erp/
+
+VENTAJAS Y DEVENTAJAS DE UNA S.A.S.
+ Ventajas: 
+1. Simplificación de trámites: entre los beneficios más significativos tenemos: 
+• Inscripción de la sociedad por documento privado: cualquier sociedad que se registre en Colombia – excepto la SAS 
+en algunos casos –su constitución se debe realizar por medio de una escritura pública, para luego registrarla ante una notaría.
+Pero la SAS no necesariamente tiene que dar fe pública mediante ese documento a menos que posea bienes inmuebles que si es obligación.
+Éste es un beneficio porque disminuye los costos de transacción. 
+• Carácter siempre comercial: en la legislación colombiana hay empresas que se le aplica el derecho comercial y a otras el derecho civil.
+Pero en el artículo 3 de la ley de 1258 de 2008 establece que la SAS será siempre de carácter comercial independientemente 
+de su objeto social, lo cual suprime la dicotomía en el derecho privado. 
+• Eliminación del requisito que exige un mínimo de dos personas para conformar una sociedad: dentro del contexto de sociedad, 
+no cabía que una sociedad pudiera ser constituida por una sola persona, pero con la ley 1258 de 2008, esto fue posible.
+Fuente: http://www.icesi.edu.co/censea/images/VENTAJAS-DEVENTAJAS-SAS.pdf
+
+
+
+
